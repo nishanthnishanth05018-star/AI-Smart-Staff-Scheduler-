@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Staff Scheduler",
+  "description": "Smart department timetable, class allocation, exact period timings, conflict detection, and automatic staff notification system in Indian Standard Time (IST).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
